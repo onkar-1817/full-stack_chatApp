@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: backend
-  namespace: chat-app
+  namespace: mychat-app
 spec:
   selector:
     app: backend
