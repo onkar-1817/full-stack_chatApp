@@ -48,6 +48,17 @@ Copy code
 
 ---
 
+## 📸 Screenshots
+
+### 💬 Chat Interface
+![Chat UI](images/chat.png)
+
+### 🔐 Login Page
+![Login](images/logout.png)
+
+### 📊 Setting
+![Setting](images/settings.png)
+
 ## 📋 Prerequisites
 
 Ensure the following tools are installed:
